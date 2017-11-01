@@ -20,8 +20,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Save your time, let computers do the job!
 baseurl: /teachingblog # the subpath of your site, e.g. /blog
 url: vladdsm/vladdsm.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+# - displayed at the bottom
+closing-head: Thanks for visiting
+closing-para: Feel free to get in touch. Cheers!
+
+# social
 twitter_username: vladdsm
 github_username:  vladdsm
+linkedin-square: https://linkedin.com/in/vladimir-zhbanko-a9285188/
+youtube-square: channel/UCHkFSk-4Suxqcn4dqzo_ZuQ
+google-plus-square: https://plus.google.com/u/0/106524010967136538054
 
 # Build settings
 markdown: kramdown
