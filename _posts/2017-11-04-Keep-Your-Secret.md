@@ -182,5 +182,6 @@ https://vladdsm.github.io/vladdsm.github.io/teachingblog/assets/Designer.png
 https://vladdsm.github.io/assets/Designer.png
 https://vladdsm.github.io/assets/Designer.png
 
-<img src="http://vladdsm.github.io/teachingblog/assets/Designer.png" >
+<img src="https://vladdsm.github.io/teachingblog/assets/Designer.png" >
+
 ![My helpful screenshot]({{  }} teachingblog/assets/Designer.png)
