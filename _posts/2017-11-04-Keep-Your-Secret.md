@@ -179,4 +179,5 @@ postscriptum
 
 beyong the theory I have also studied different simple ways to exploit this concept. The material is quite big so I packed that to the e-learning course. Feel free to check this out at <https://www.udemy.com/keep-your-secrets-under-control/>
 https://vladdsm.github.io/vladdsm.github.io/teachingblog/assets/Designer.png
-![My helpful screenshot]({{  }} /assets/Designer.png)
+https://vladdsm.github.io/assets/Designer.png
+![My helpful screenshot]({{  }} teachingblog/assets/Designer.png)
